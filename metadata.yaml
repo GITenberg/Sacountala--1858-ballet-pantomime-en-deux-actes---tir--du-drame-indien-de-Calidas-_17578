@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Théophile_Gautier
     - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17578#Sacountala--1858-ballet-pantomime-en-deux-actes---tir--du-drame-indien-de-Calidas-
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2006-01-23'
 gutenberg_type: Text
